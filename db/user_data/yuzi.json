@@ -1,0 +1,1 @@
+{"username": "yuzi", "password": "1c049d7a838af72ae6ae92032dd71fee047eae1bddcee423648a9944abfd7d00", "balance": 1011100, "shopping_cart": {}, "flow": ["\n2023-01-04 20:35:49.820960 用户yuzi收到用户natsume转账成功!余额为1000100元", "\n2023-01-05 14:27:59.228486 用户yuzi收到用户nat转账成功!余额为1001100元", "\n2023-01-05 14:30:20.543556用户yuzi充值 10000 成功！\n当前余额为：1011100"], "is_admin": false, "locked": false}
